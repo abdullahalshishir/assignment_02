@@ -360,7 +360,7 @@ footer ul:nth-child(4) li a {
 
 
 
-/*----------------------------------------  Responsive  for X-Small device webside-1---------------------------------------- */
+/*----------------------------------------  Responsive  for X-Small device index---------------------------------------- */
 @media screen and (max-width:576px) {
     .top-banner {
         flex-direction: column;
@@ -452,7 +452,7 @@ footer ul:nth-child(4) li a {
     }
 }
 
-/*----------------------------------------  Responsive  for Small device webside-1---------------------------------------- */
+/*----------------------------------------  Responsive  for Small device index---------------------------------------- */
 @media screen and (min-width:577px) and (max-width: 768px) {
     .top-banner {
         height: 360px;
@@ -542,7 +542,7 @@ footer ul:nth-child(4) li a {
     }
 }
 
-/*----------------------------------------  Responsive  for Medium device webside-1---------------------------------------- */
+/*----------------------------------------  Responsive  for Medium device index---------------------------------------- */
 
 @media screen and (min-width:769px) and (max-width: 992px) {
     .top-banner {
